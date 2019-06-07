@@ -18,4 +18,3 @@ https://www.codewars.com/kata/beginner-lost-without-a-map/train/javascript
 
 https://nodejs.org/dist/latest-v10.x/docs/api/fs.html
 
-## 
