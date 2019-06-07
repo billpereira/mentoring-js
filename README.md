@@ -1,5 +1,5 @@
-## mentoring-js
+# mentoring-js
 
-# Introduction - Basics
+## Introduction - Basics
 
 Basic concepts and some challenges to start with Javascript
